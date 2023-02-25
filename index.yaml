@@ -3,9 +3,9 @@ entries:
   install-operator:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-25T11:53:22.429788198Z"
+    created: "2023-02-25T13:07:31.749060089Z"
     description: A Helm chart for Kubernetes
-    digest: e1f3d5888cfdbada345d55d8686771173bc26d2a973d474380986d8aa1c9329f
+    digest: f93d041e5efa5e781c965cd1abb3d51183dfb9e50561b64e66eefa29e72fe7f1
     name: install-operator
     type: application
     urls:
@@ -14,9 +14,9 @@ entries:
   rh-amq-instance:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-25T11:53:22.430186047Z"
+    created: "2023-02-25T13:07:31.749487062Z"
     description: A Helm chart for Kubernetes
-    digest: b16b10aac0ac0171e6ecf2254fe49acfc20296a9d109d1551eca454b64ab016c
+    digest: 8e36450b9c5d01823684232bb508147eb3ba74890cea1aa78cb430c4b1cd2a04
     name: rh-amq-instance
     type: application
     urls:
@@ -25,12 +25,12 @@ entries:
   rh-sso-instance:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-25T11:53:22.430551396Z"
+    created: "2023-02-25T13:07:31.749894922Z"
     description: A Helm chart for Kubernetes
-    digest: c3743736947a1bba5a62deafe0d4f121c242bad8ed503d1cf44eca9b8e20e95b
+    digest: 55f9ca5157879dfef219ca23aacfdd3f1fc2ae05a5fdf063e0b9659cfdd41644
     name: rh-sso-instance
     type: application
     urls:
     - https://ippul.github.io/helm-chart-repository/rh-sso-instance-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-25T11:53:22.429417354Z"
+generated: "2023-02-25T13:07:31.748728449Z"
